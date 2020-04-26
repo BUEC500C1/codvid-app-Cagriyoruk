@@ -71,3 +71,18 @@ Following the installation guide from https://github.com/react-native-community
  ```
 * Modify the App.js file in order to retrieve maps. 
 ![Step3 image](https://user-images.githubusercontent.com/55101879/80293556-818d7c00-872e-11ea-82d8-8d5b41931441.png)
+
+### Step 4 [Finished]
+
+* With the dataset provided from the covid19api.com, display:
+  * Date
+  
+  * Total Confirmed Cases
+  
+  * Total Deaths
+  
+  * Total Recovered Cases
+  
+![step4_image](https://user-images.githubusercontent.com/55101879/80294714-66743980-8739-11ea-9197-89be0c739f8d.png)
+
+
